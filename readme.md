@@ -67,12 +67,7 @@ You have to change "https://for-myuse.infinityfreeapp.com" with your own website
  
 ## MediaFire Links
 
-- [index.html](https://www.mediafire.com/file/dp1jh6kxsdjtlrw/index.html/file)
-- [signin.php](https://www.mediafire.com/file/l5r5yadi1xn2r18/signin.php/file)
-- [signup.php](https://www.mediafire.com/file/4hsjy1cd2lgm9rm/signup.php/file)
-- [forgetpswd.html](https://www.mediafire.com/file/r0bpulhzpd57t1m/forgetpswd.html/file)
-- [forgetpswd.php](https://www.mediafire.com/file/ds81z9icbbf02nt/forgetpswd.php/file)
-- [data.txt](https://www.mediafire.com/file/0x4qf6a5dycdhd7/data.txt/file)
+- [Download this](https://www.mediafire.com/file/9il6oji7m6brkc0/website.zip/file)
 
 ## Video Demonstrations
 
